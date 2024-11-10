@@ -1,7 +1,9 @@
 # 3B CREATION FOR CHAT USING TCP SOCKETS
 
-## Name Mohammed Ibrahim MN 
-## REG 212223100034
+## Name : Mohammed Ibrahim MN 
+## REG : 212223100034
+## Date:: 30/9/2024
+
 
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
